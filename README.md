@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vadim
-I'm a beginner web developer. I teach HTML | CSS | JavaScript.
+I'm a beginner web developer.
 
 Skills: JavaScript / HTML / CSS
 
